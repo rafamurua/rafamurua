@@ -20,8 +20,8 @@ My background in QA gives me a unique edge: I don't just build automations — I
 | **RPA** | Automation Anywhere, Power Automate Desktop |
 | **Workflow automation** | Power Automate Cloud |
 | **Programming** | Python (APIs, scripting, monitoring) |
-| **Cloud & integration** | Azure DevOps, REST APIs, webhooks |
-| **QA & testing** | Manual testing, test cycle management, pytest |
+| **Cloud & integration** | REST APIs, webhooks |
+| **QA & testing** | Manual testing, test cycle management, pytest | Selenium |
 | **Project management** | Jira, Scrum, Agile |
 | **Data** | SQL, data processing pipelines |
  
