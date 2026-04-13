@@ -18,7 +18,7 @@ My background in QA gives me a unique edge: I don't just build automations — I
 | Area | Tools |
 |---|---|
 | **RPA** | Automation Anywhere, Power Automate Desktop |
-| **Workflow automation** | Power Automate Cloud |
+| **Workflow automation** | Power Automate Cloud, N8N |
 | **Programming** | Python (APIs, scripting, monitoring) |
 | **Cloud & integration** | REST APIs, webhooks |
 | **QA & testing** | Manual testing, test cycle management, Pytest, Selenium |
